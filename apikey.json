@@ -1,0 +1,12 @@
+{
+"type": "XXXXXXXXXXXXXXXXXXXX",
+"project_id": "XXXXXXXXXXXXXXXXXXXX",
+"private_key_id": "XXXXXXXXXXXXXXXXXXXX",
+"private_key": "XXXXXXXXXXXXXXXXXXXX",
+"client_email": "XXXXXXXXXXXXXXXXXXXX",
+"client_id": "XXXXXXXXXXXXXXXXXXXX",
+"auth_uri": "XXXXXXXXXXXXXXXXXXXX",
+"token_uri": "XXXXXXXXXXXXXXXXXXXX",
+"auth_provider_x509_cert_url": "XXXXXXXXXXXXXXXXXXXXXXXXXXX",
+"client_x509_cert_url": "XXXXXXXXXXXXXXXXXXXX"
+}
